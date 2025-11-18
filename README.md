@@ -1,2 +1,4 @@
-# SUPERTRUNFO
-PRIMEIRO PROJETO DA FACULDADE 
+ #include <stdio.h>
+
+int main ()
+
